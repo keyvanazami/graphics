@@ -1,11 +1,7 @@
 # Computer Graphics
 **Software and Program Design**
 
-*Design Approach and Skills*
-
-My approach to software design is centered on modularity and starting with a clear, high-level goal. For this project, the primary goal was to create a "visually appealing and realistic representation of a backyard oasis". This theme guided all subsequent design choices, from the main objects like the pool and hot tub to complementary elements like the stone patio and lighting.
-
-The design process I followed was layered:
+*Design Approach*
 
 Structural Design: I began with foundational elements, building the ground plane first and then adding the major objects that define the space.
 
