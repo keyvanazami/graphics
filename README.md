@@ -1,5 +1,4 @@
-# Computer Graphics
-**Software and Program Design**
+# OpenGL Backyard Model
 
 *Design Approach*
 
